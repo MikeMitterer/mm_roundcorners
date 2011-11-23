@@ -1,0 +1,32 @@
+plugin.tx_mmroundcorners_pi1._CSS_DEFAULT_STYLE (
+
+.roundedcorner_0000 { width: 100%; }
+.roundedcorner_0000 { background-color: #ffffff;}
+.roundedcorner_0000 .t {background: url(/typo3conf/ext/mm_roundcorners/res/corner/dot.gif) 0 0 repeat-x; width: 100%;}
+.roundedcorner_0000 .b {background: url(/typo3conf/ext/mm_roundcorners/res/corner/dot.gif) 0 100% repeat-x;}
+.roundedcorner_0000 .l {background: url(/typo3conf/ext/mm_roundcorners/res/corner/dot.gif) 0 0 repeat-y;}
+.roundedcorner_0000 .r {background: url(/typo3conf/ext/mm_roundcorners/res/corner/dot.gif) 100% 0 repeat-y;}
+.roundedcorner_0000 .tl {background: url(/typo3conf/ext/mm_roundcorners/res/corner/images/corner_01.gif) 0 0 no-repeat;}
+.roundedcorner_0000 .tr {background: url(/typo3conf/ext/mm_roundcorners/res/corner/images/corner_02.gif) 100% 0 no-repeat; padding: 0.5em;}
+.roundedcorner_0000 .bl {background: url(/typo3conf/ext/mm_roundcorners/res/corner/images/corner_03.gif) 0 100% no-repeat;}
+.roundedcorner_0000 .br {background: url(/typo3conf/ext/mm_roundcorners/res/corner/images/corner_04.gif) 100% 100% no-repeat;}
+
+.roundedcorner_0001 { width: 100%; }
+.roundedcorner_0001 { background: url(/typo3conf/ext/mm_roundcorners/res/combine/background.gif) repeat-x #ffffff;}
+.roundedcorner_0001 .t {background: url(/typo3conf/ext/mm_roundcorners/res/combine/dot.gif) 0 0 repeat-x; width: 100%;}
+.roundedcorner_0001 .b {background: url(/typo3conf/ext/mm_roundcorners/res/combine/dot.gif) 0 100% repeat-x;}
+.roundedcorner_0001 .l {background: url(/typo3conf/ext/mm_roundcorners/res/combine/dot.gif) 0 0 repeat-y;}
+.roundedcorner_0001 .r {background: url(/typo3conf/ext/mm_roundcorners/res/combine/dot.gif) 100% 0 repeat-y;}
+.roundedcorner_0001 .tl {background: url(/typo3conf/ext/mm_roundcorners/res/combine/images/box_01.gif) 0 0 no-repeat;}
+.roundedcorner_0001 .tr {background: url(/typo3conf/ext/mm_roundcorners/res/combine/images/box_02.gif) 100% 0 no-repeat; padding: 0.5em;}
+.roundedcorner_0001 .bl {background: url(/typo3conf/ext/mm_roundcorners/res/combine/images/corner_03.gif) 0 100% no-repeat;}
+.roundedcorner_0001 .br {background: url(/typo3conf/ext/mm_roundcorners/res/combine/images/corner_04.gif) 100% 100% no-repeat;}
+
+.roundedbox_0000 { width: 100%; }
+.roundedbox_0000 .tl {background: url(/typo3conf/ext/mm_roundcorners/res/box/images/box_01.gif) 0 0 no-repeat;}
+.roundedbox_0000 .tr {background: url(/typo3conf/ext/mm_roundcorners/res/box/images/box_02.gif) 100% 0 no-repeat; padding:0.5em;}
+.roundedbox_0000 .bl {background: url(/typo3conf/ext/mm_roundcorners/res/box/images/box_03.gif) 0 100% no-repeat #545454; width: 100%;}
+.roundedbox_0000 .br {background: url(/typo3conf/ext/mm_roundcorners/res/box/images/box_04.gif) 100% 100% no-repeat;}
+.roundedbox_0000 .clear {font-size: 1px; height: 1px;}
+
+)

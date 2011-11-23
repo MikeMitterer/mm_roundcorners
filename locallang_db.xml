@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'mm_roundcorners'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.section_frames_55">RoundCorners1</label>
+			<label index="tt_content.section_frames_56">RoundCorners2</label>
+			<label index="tt_content.section_frames_57">RoundCorners3</label>
+			<label index="tt_content.section_frames_58">RoundCorners4</label>
+			<label index="tt_content.section_frames_59">RoundCorners5</label>
+			<label index="tt_content.section_frames_60">RoundBox1</label>
+			<label index="tt_content.section_frames_61">RoundBox2</label>
+			<label index="tt_content.section_frames_62">RoundBox3</label>
+			<label index="tt_content.section_frames_63">RoundBox4</label>
+			<label index="tt_content.section_frames_64">RoundBox5</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tt_content.section_frames_55">RundeEcken1</label>
+			<label index="tt_content.section_frames_56">RundeEcken2</label>
+			<label index="tt_content.section_frames_57">RundeEcken3</label>
+			<label index="tt_content.section_frames_58">RundeEcken4</label>
+			<label index="tt_content.section_frames_59">RundeEcken5</label>
+			<label index="tt_content.section_frames_60">RundeBox1</label>
+			<label index="tt_content.section_frames_61">RundeBox2</label>
+			<label index="tt_content.section_frames_62">RundeBox3</label>
+			<label index="tt_content.section_frames_63">RundeBox4</label>
+			<label index="tt_content.section_frames_64">RundeBox5</label>
+		</languageKey>
+	</data>
+</T3locallang>
